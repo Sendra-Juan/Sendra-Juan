@@ -1,4 +1,4 @@
-![Banner para Linkedin programador con fotografia azul y blanco](https://github.com/user-attachments/assets/6c5794c1-2238-47e0-a68a-bdd2f0ad668f)
+![Banner para Linkedin programador con fotografia azul y blanco (1)](https://github.com/user-attachments/assets/90ff7a0b-e700-4616-92ab-6dd5fe983959)
 
 <h1 align="center">Hi 👋, I'm Juan Sendra</h1>
 
