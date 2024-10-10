@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Processing**
 
-- 📫 How to reach me **juan.sendra@alumnos.frm.utn.edu.ar**
+- 📫 How to reach me **juan.sendra@alumnos.frm.utn.edu.ar / sendrajuancruz@gmail.com**
 
 - 🔎 I am also interested in programming related to physical problems or artificial intelligence
 
