@@ -1,6 +1,7 @@
 ![Banner para Linkedin programador con fotografia azul y blanco (1)](https://github.com/user-attachments/assets/90ff7a0b-e700-4616-92ab-6dd5fe983959)
 
 <h1 align="center">Hi 👋, I'm Juan Sendra</h1>
+<h3 align="center">A passionate student and deportist</h3>
 
 
 - 🔭 I’m currently studing on **Electronig Engeeniering, Arduino, C++ and python**
@@ -15,11 +16,13 @@
 
 - 🔎 I am also interested in programming related to physical problems or artificial intelligence
 
-- ⚡ Fun fact **I play Minecraft and other games**
+- ⚡ Fun fact **I like to do fun projects with Arduino that help me grow and improve in this environment**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juan sendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan sendra" height="30" width="40" /></a>
+<a href="https://fb.com/juan cruz sendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juan cruz sendra" height="30" width="40" /></a>
+<a href="https://discord.gg/Sendra Juan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sendra Juan" height="30" width="40" /></a>
 </p>
 
 ---
@@ -30,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sendra-juan&" alt="sendra-juan" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sendra-juan&show_icons=true&locale=en&layout=compact" alt="sendra-juan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sendra-juan&show_icons=true&locale=en&layout=compact" alt="sendra-juan" /></p>
